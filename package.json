@@ -1,0 +1,19 @@
+{
+  "name": "sunbeam",
+  "version": "1.0.0",
+  "description": "By Shubham and Suramya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suramyavns/Sunbeam.git"
+  },
+  "author": "Shubham Vishwakarma, Suramya Didwania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suramyavns/Sunbeam/issues"
+  },
+  "homepage": "https://github.com/Suramyavns/Sunbeam#readme"
+}
